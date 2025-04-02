@@ -1,0 +1,18 @@
+[package]
+name = "agrocrypto-core"
+version = "0.1.0"
+authors = ["Leandro Lemos <adm@agrocrypto.io>"]
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "The core engine of AgroCrypto: a blockchain-native asset tokenization and settlement layer."
+repository = "https://agrocrypto.exchange"
+keywords = ["blockchain", "tokenization", "carbon-credits", "settlement", "web3"]
+categories = ["finance", "cryptography", "command-line-utilities"]
+readme = "README.md"
+
+[dependencies]
+# Aqui você pode colocar os crates como:
+spl-token = "8.0.0"
+solana-sdk = "2.2.2"
+serde = { version = "1.0", features = ["derive"] }
+status = "0.0.10"
