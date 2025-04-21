@@ -1,1 +1,28 @@
-/target
+# Rust
+/target/
+/Cargo.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.venv/
+.env
+.venv
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Azure Bicep
+*.bicep.params.json
+
+# Node/Web
+node_modules/
+dist/

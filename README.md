@@ -7,13 +7,20 @@
 
 Built with Rust, aligned with Solana and Ethereum standards, and designed to serve secure, scalable infrastructure for the AgroCrypto ecosystem.
 
-## Features
+---
 
-- Tokenization of carbon credits and commodity assets
-- Integration-ready with SPL Token and Solana SDK
-- Secure by design, performance-oriented
-- Built to support Web3 and institutional DeFi infrastructure
+## 🚀 Why AgroCrypto Core?
 
-## License
+- 🌱 **Sustainable by design** — supporting carbon credit certification
+- 🔐 **Secure by Rust** — no garbage collection, no undefined behavior
+- ⚙️ **Modular and extensible** — ideal for Web3 and institutional integration
+- 🛰️ **Blockchain-ready** — interoperable with SPL Tokens, Ethereum, and custom chains
 
-MIT OR Apache-2.0
+---
+
+## 📦 Installation
+
+```bash
+cargo add agrocrypto-core
+
+
