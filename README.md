@@ -30,3 +30,4 @@ Built with Rust, aligned with Solana and Ethereum standards, and designed to ser
 cargo add agrocrypto-core
 
 
+Badge Pull Shark em andamento
